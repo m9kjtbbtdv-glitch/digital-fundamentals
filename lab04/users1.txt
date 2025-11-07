@@ -1,5 +1,0 @@
-alice:25:alice@example.com
-bob:19:bob@spbstu.ru
-carol:30:carol@gmail.com
-david:17:david@mail.ru
-eve:22:eve@company.com

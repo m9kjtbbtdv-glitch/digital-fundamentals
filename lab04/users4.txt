@@ -1,5 +1,0 @@
-victor:21:victor@service.net
-tanya:4:tanya@waytooyoung.com
-roman:25:roman@example.org
-sasha:28:sasha@mail.ru
-lara:17:lara@school.net

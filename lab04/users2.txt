@@ -1,5 +1,0 @@
-ivan:40:ivan@mail.com
-olga:16:olga@school.org
-maria:18:maria@gmail.com
-sergey:21:sergey@spbstu.ru
-natasha:15:natasha@home.ru

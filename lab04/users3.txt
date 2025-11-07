@@ -1,5 +1,0 @@
-kate:23:kate@internet.com
-alex:29:alex@mail.ru
-daria:16:daria@school.org
-nina:31:nina@company.com
-igor:60:igor@oldbag.com
