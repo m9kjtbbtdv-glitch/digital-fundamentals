@@ -1,0 +1,5 @@
+peter:17:peter@mail.ru
+anna:20:anna@spbstu.ru
+oleg:34:oleg@work.net
+lena:22:lena@gmail.com
+maxim:19:maxim@domain.org
